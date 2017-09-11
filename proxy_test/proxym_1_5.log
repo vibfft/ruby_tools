@@ -1,0 +1,382 @@
+I, [2012-12-07T18:53:52.299487 #20912]  INFO -- : Server spawned
+I, [2012-12-07T18:53:52.300677 #20912]  INFO -- : Proxy spawned
+I, [2012-12-07T18:55:31.798535 #20912]  INFO -- : 
+ pid/thd client_addr     start_tm func           faults faultsmb snd2clnt  rcvfrmc  snd2svr  rcvfrms last_upd                                     file
+   24945 127.0.0.1       00:00:00 submit              0        0        0        0        0        0 376370:55:31                            depot/depot/0
+
+I, [2012-12-07T18:55:32.075464 #20912]  INFO -- : 
+ pid/thd client_addr     start_tm func           faults faultsmb snd2clnt  rcvfrmc  snd2svr  rcvfrms last_upd                                     file
+   24945 127.0.0.1       00:00:01 submit              0        0        0        0        0        0 376370:55:32                            depot/depot/0
+
+I, [2012-12-07T18:55:33.004193 #20912]  INFO -- : 
+ pid/thd client_addr     start_tm func           faults faultsmb snd2clnt  rcvfrmc  snd2svr  rcvfrms last_upd                                     file
+   24945 127.0.0.1       00:00:02 submit              0        0        0        0        0        0 376370:55:33                            depot/depot/0
+
+I, [2012-12-07T18:55:34.074166 #20912]  INFO -- : 
+ pid/thd client_addr     start_tm func           faults faultsmb snd2clnt  rcvfrmc  snd2svr  rcvfrms last_upd                                     file
+   24945 127.0.0.1       00:00:03 submit              0        0        0        0        0        0 376370:55:34                            depot/depot/0
+
+I, [2012-12-07T18:55:35.036511 #20912]  INFO -- : 
+ pid/thd client_addr     start_tm func           faults faultsmb snd2clnt  rcvfrmc  snd2svr  rcvfrms last_upd                                     file
+   24945 127.0.0.1       00:00:04 submit              0        0        0        0        0        0 376370:55:35                            depot/depot/0
+
+I, [2012-12-07T18:55:36.044609 #20912]  INFO -- : 
+ pid/thd client_addr     start_tm func           faults faultsmb snd2clnt  rcvfrmc  snd2svr  rcvfrms last_upd                                     file
+   24945 127.0.0.1       00:00:05 submit              0        0        6    21751    21752        7 00:00:00                            depot/depot/0
+
+I, [2012-12-07T18:55:37.086601 #20912]  INFO -- : 
+ pid/thd client_addr     start_tm func           faults faultsmb snd2clnt  rcvfrmc  snd2svr  rcvfrms last_upd                                     file
+   24945 127.0.0.1       00:00:06 submit              0        0        6    21751    21752        7 00:00:01                            depot/depot/0
+
+I, [2012-12-07T18:55:38.011573 #20912]  INFO -- : 
+ pid/thd client_addr     start_tm func           faults faultsmb snd2clnt  rcvfrmc  snd2svr  rcvfrms last_upd                                     file
+   24945 127.0.0.1       00:00:07 submit              0        0        6    21751    21752        7 00:00:02                            depot/depot/0
+
+I, [2012-12-07T18:55:39.047153 #20912]  INFO -- : 
+ pid/thd client_addr     start_tm func           faults faultsmb snd2clnt  rcvfrmc  snd2svr  rcvfrms last_upd                                     file
+   24945 127.0.0.1       00:00:08 submit              0        0        6    21751    21752        7 00:00:03                            depot/depot/0
+
+I, [2012-12-07T18:55:40.009813 #20912]  INFO -- : 
+ pid/thd client_addr     start_tm func           faults faultsmb snd2clnt  rcvfrmc  snd2svr  rcvfrms last_upd                                     file
+   24945 127.0.0.1       00:00:09 submit              0        0        6    21751    21752        7 00:00:04                            depot/depot/0
+
+I, [2012-12-07T18:55:41.052886 #20912]  INFO -- : 
+ pid/thd client_addr     start_tm func           faults faultsmb snd2clnt  rcvfrmc  snd2svr  rcvfrms last_upd                                     file
+   24945 127.0.0.1       00:00:10 submit              0        0        6    48891    48892        7 00:00:00                            depot/depot/0
+
+I, [2012-12-07T18:55:42.097809 #20912]  INFO -- : 
+ pid/thd client_addr     start_tm func           faults faultsmb snd2clnt  rcvfrmc  snd2svr  rcvfrms last_upd                                     file
+   24945 127.0.0.1       00:00:11 submit              0        0        6    48891    48892        7 00:00:01                            depot/depot/0
+
+I, [2012-12-07T18:55:43.052595 #20912]  INFO -- : 
+ pid/thd client_addr     start_tm func           faults faultsmb snd2clnt  rcvfrmc  snd2svr  rcvfrms last_upd                                     file
+   24945 127.0.0.1       00:00:12 submit              0        0        6    48891    48892        7 00:00:02                            depot/depot/0
+
+I, [2012-12-07T18:55:44.028896 #20912]  INFO -- : 
+ pid/thd client_addr     start_tm func           faults faultsmb snd2clnt  rcvfrmc  snd2svr  rcvfrms last_upd                                     file
+   24945 127.0.0.1       00:00:13 submit              0        0        6    48891    48892        7 00:00:03                            depot/depot/0
+
+I, [2012-12-07T18:55:45.007861 #20912]  INFO -- : 
+ pid/thd client_addr     start_tm func           faults faultsmb snd2clnt  rcvfrmc  snd2svr  rcvfrms last_upd                                     file
+   24945 127.0.0.1       00:00:14 submit              0        0        6    48891    48892        7 00:00:04                            depot/depot/0
+
+I, [2012-12-07T18:55:46.053479 #20912]  INFO -- : 
+ pid/thd client_addr     start_tm func           faults faultsmb snd2clnt  rcvfrmc  snd2svr  rcvfrms last_upd                                     file
+   24945 127.0.0.1       00:00:15 submit              0        0        6    76169    76170        7 00:00:00                            depot/depot/0
+
+I, [2012-12-07T18:55:47.085911 #20912]  INFO -- : 
+ pid/thd client_addr     start_tm func           faults faultsmb snd2clnt  rcvfrmc  snd2svr  rcvfrms last_upd                                     file
+   24945 127.0.0.1       00:00:16 submit              0        0        6    76169    76170        7 00:00:01                            depot/depot/0
+
+I, [2012-12-07T18:55:48.002473 #20912]  INFO -- : 
+ pid/thd client_addr     start_tm func           faults faultsmb snd2clnt  rcvfrmc  snd2svr  rcvfrms last_upd                                     file
+   24945 127.0.0.1       00:00:17 submit              0        0        6    76169    76170        7 00:00:02                            depot/depot/0
+
+I, [2012-12-07T18:55:49.046645 #20912]  INFO -- : 
+ pid/thd client_addr     start_tm func           faults faultsmb snd2clnt  rcvfrmc  snd2svr  rcvfrms last_upd                                     file
+   24945 127.0.0.1       00:00:18 submit              0        0        6    76169    76170        7 00:00:03                            depot/depot/0
+
+I, [2012-12-07T18:55:50.095720 #20912]  INFO -- : 
+ pid/thd client_addr     start_tm func           faults faultsmb snd2clnt  rcvfrmc  snd2svr  rcvfrms last_upd                                     file
+   24945 127.0.0.1       00:00:19 submit              0        0        6    76169    76170        7 00:00:04                            depot/depot/0
+
+I, [2012-12-07T18:55:51.086979 #20912]  INFO -- : 
+ pid/thd client_addr     start_tm func           faults faultsmb snd2clnt  rcvfrmc  snd2svr  rcvfrms last_upd                                     file
+   24945 127.0.0.1       00:00:20 submit              0        0        6   103618   103619        7 00:00:00                            depot/depot/0
+
+I, [2012-12-07T18:55:52.033677 #20912]  INFO -- : 
+ pid/thd client_addr     start_tm func           faults faultsmb snd2clnt  rcvfrmc  snd2svr  rcvfrms last_upd                                     file
+   24945 127.0.0.1       00:00:21 submit              0        0        6   103618   103619        7 00:00:01                            depot/depot/0
+
+I, [2012-12-07T18:55:53.012700 #20912]  INFO -- : 
+ pid/thd client_addr     start_tm func           faults faultsmb snd2clnt  rcvfrmc  snd2svr  rcvfrms last_upd                                     file
+   24945 127.0.0.1       00:00:22 submit              0        0        6   103618   103619        7 00:00:02                            depot/depot/0
+
+I, [2012-12-07T18:55:54.002034 #20912]  INFO -- : 
+ pid/thd client_addr     start_tm func           faults faultsmb snd2clnt  rcvfrmc  snd2svr  rcvfrms last_upd                                     file
+   24945 127.0.0.1       00:00:23 submit              0        0        6   103618   103619        7 00:00:03                            depot/depot/0
+
+I, [2012-12-07T18:55:55.085532 #20912]  INFO -- : 
+ pid/thd client_addr     start_tm func           faults faultsmb snd2clnt  rcvfrmc  snd2svr  rcvfrms last_upd                                     file
+   24945 127.0.0.1       00:00:24 submit              0        0        6   103618   103619        7 00:00:04                            depot/depot/0
+
+I, [2012-12-07T18:55:56.070347 #20912]  INFO -- : 
+ pid/thd client_addr     start_tm func           faults faultsmb snd2clnt  rcvfrmc  snd2svr  rcvfrms last_upd                                     file
+   24945 127.0.0.1       00:00:25 submit              0        0        6   130902   130903        7 00:00:00                            depot/depot/0
+
+I, [2012-12-07T18:55:57.084594 #20912]  INFO -- : 
+ pid/thd client_addr     start_tm func           faults faultsmb snd2clnt  rcvfrmc  snd2svr  rcvfrms last_upd                                     file
+   24945 127.0.0.1       00:00:26 submit              0        0        6   130902   130903        7 00:00:01                            depot/depot/0
+
+I, [2012-12-07T18:55:58.071384 #20912]  INFO -- : 
+ pid/thd client_addr     start_tm func           faults faultsmb snd2clnt  rcvfrmc  snd2svr  rcvfrms last_upd                                     file
+   24945 127.0.0.1       00:00:27 submit              0        0        6   130902   130903        7 00:00:02                            depot/depot/0
+
+I, [2012-12-07T18:55:59.061229 #20912]  INFO -- : 
+ pid/thd client_addr     start_tm func           faults faultsmb snd2clnt  rcvfrmc  snd2svr  rcvfrms last_upd                                     file
+   24945 127.0.0.1       00:00:28 submit              0        0        6   130902   130903        7 00:00:03                            depot/depot/0
+
+I, [2012-12-07T18:56:00.090458 #20912]  INFO -- : 
+ pid/thd client_addr     start_tm func           faults faultsmb snd2clnt  rcvfrmc  snd2svr  rcvfrms last_upd                                     file
+   24945 127.0.0.1       00:00:29 submit              0        0        6   130902   130903        7 00:00:04                            depot/depot/0
+
+I, [2012-12-07T18:56:01.097139 #20912]  INFO -- : 
+ pid/thd client_addr     start_tm func           faults faultsmb snd2clnt  rcvfrmc  snd2svr  rcvfrms last_upd                                     file
+   24945 127.0.0.1       00:00:30 submit              0        0        6   158984   158985        7 00:00:00                            depot/depot/0
+
+I, [2012-12-07T18:56:02.019049 #20912]  INFO -- : 
+ pid/thd client_addr     start_tm func           faults faultsmb snd2clnt  rcvfrmc  snd2svr  rcvfrms last_upd                                     file
+   24945 127.0.0.1       00:00:31 submit              0        0        6   158984   158985        7 00:00:01                            depot/depot/0
+
+I, [2012-12-07T18:56:03.017458 #20912]  INFO -- : 
+ pid/thd client_addr     start_tm func           faults faultsmb snd2clnt  rcvfrmc  snd2svr  rcvfrms last_upd                                     file
+   24945 127.0.0.1       00:00:32 submit              0        0        6   158984   158985        7 00:00:02                            depot/depot/0
+
+I, [2012-12-07T18:56:04.006914 #20912]  INFO -- : 
+ pid/thd client_addr     start_tm func           faults faultsmb snd2clnt  rcvfrmc  snd2svr  rcvfrms last_upd                                     file
+   24945 127.0.0.1       00:00:33 submit              0        0        6   158984   158985        7 00:00:03                            depot/depot/0
+
+I, [2012-12-07T18:56:05.080378 #20912]  INFO -- : 
+ pid/thd client_addr     start_tm func           faults faultsmb snd2clnt  rcvfrmc  snd2svr  rcvfrms last_upd                                     file
+   24945 127.0.0.1       00:00:34 submit              0        0        6   158984   158985        7 00:00:04                            depot/depot/0
+
+I, [2012-12-07T18:56:06.007789 #20912]  INFO -- : 
+ pid/thd client_addr     start_tm func           faults faultsmb snd2clnt  rcvfrmc  snd2svr  rcvfrms last_upd                                     file
+   24945 127.0.0.1       00:00:35 submit              0        0        6   185721   185722        7 00:00:00                            depot/depot/0
+
+I, [2012-12-07T18:56:07.075662 #20912]  INFO -- : 
+ pid/thd client_addr     start_tm func           faults faultsmb snd2clnt  rcvfrmc  snd2svr  rcvfrms last_upd                                     file
+   24945 127.0.0.1       00:00:36 submit              0        0        6   185721   185722        7 00:00:01                            depot/depot/0
+
+I, [2012-12-07T18:56:08.033344 #20912]  INFO -- : 
+ pid/thd client_addr     start_tm func           faults faultsmb snd2clnt  rcvfrmc  snd2svr  rcvfrms last_upd                                     file
+   24945 127.0.0.1       00:00:37 submit              0        0        6   185721   185722        7 00:00:02                            depot/depot/0
+
+I, [2012-12-07T18:56:09.043351 #20912]  INFO -- : 
+ pid/thd client_addr     start_tm func           faults faultsmb snd2clnt  rcvfrmc  snd2svr  rcvfrms last_upd                                     file
+   24945 127.0.0.1       00:00:38 submit              0        0        6   185721   185722        7 00:00:03                            depot/depot/0
+
+I, [2012-12-07T18:56:10.073899 #20912]  INFO -- : 
+ pid/thd client_addr     start_tm func           faults faultsmb snd2clnt  rcvfrmc  snd2svr  rcvfrms last_upd                                     file
+   24945 127.0.0.1       00:00:39 submit              0        0        6   185721   185722        7 00:00:04                            depot/depot/0
+
+I, [2012-12-07T18:56:11.063937 #20912]  INFO -- : 
+ pid/thd client_addr     start_tm func           faults faultsmb snd2clnt  rcvfrmc  snd2svr  rcvfrms last_upd                                     file
+   24945 127.0.0.1       00:00:40 submit              0        0        6   213900   213901        7 00:00:00                            depot/depot/0
+
+I, [2012-12-07T18:56:12.017400 #20912]  INFO -- : 
+ pid/thd client_addr     start_tm func           faults faultsmb snd2clnt  rcvfrmc  snd2svr  rcvfrms last_upd                                     file
+   24945 127.0.0.1       00:00:41 submit              0        0        6   213900   213901        7 00:00:01                            depot/depot/0
+
+I, [2012-12-07T18:56:13.065609 #20912]  INFO -- : 
+ pid/thd client_addr     start_tm func           faults faultsmb snd2clnt  rcvfrmc  snd2svr  rcvfrms last_upd                                     file
+   24945 127.0.0.1       00:00:42 submit              0        0        6   213900   213901        7 00:00:02                            depot/depot/0
+
+I, [2012-12-07T18:56:14.094054 #20912]  INFO -- : 
+ pid/thd client_addr     start_tm func           faults faultsmb snd2clnt  rcvfrmc  snd2svr  rcvfrms last_upd                                     file
+   24945 127.0.0.1       00:00:43 submit              0        0        6   213900   213901        7 00:00:03                            depot/depot/0
+
+I, [2012-12-07T18:56:15.057829 #20912]  INFO -- : 
+ pid/thd client_addr     start_tm func           faults faultsmb snd2clnt  rcvfrmc  snd2svr  rcvfrms last_upd                                     file
+   24945 127.0.0.1       00:00:44 submit              0        0        6   213900   213901        7 00:00:04                            depot/depot/0
+
+I, [2012-12-07T18:56:16.085938 #20912]  INFO -- : 
+ pid/thd client_addr     start_tm func           faults faultsmb snd2clnt  rcvfrmc  snd2svr  rcvfrms last_upd                                     file
+   24945 127.0.0.1       00:00:45 submit              0        0        6   240857   240858        7 00:00:00                            depot/depot/0
+
+I, [2012-12-07T18:56:17.047265 #20912]  INFO -- : 
+ pid/thd client_addr     start_tm func           faults faultsmb snd2clnt  rcvfrmc  snd2svr  rcvfrms last_upd                                     file
+   24945 127.0.0.1       00:00:46 submit              0        0        6   240857   240858        7 00:00:01                            depot/depot/0
+
+I, [2012-12-07T18:56:18.091386 #20912]  INFO -- : 
+ pid/thd client_addr     start_tm func           faults faultsmb snd2clnt  rcvfrmc  snd2svr  rcvfrms last_upd                                     file
+   24945 127.0.0.1       00:00:47 submit              0        0        6   240857   240858        7 00:00:02                            depot/depot/0
+
+I, [2012-12-07T18:56:18.473909 #20912]  INFO -- : 
+ pid/thd client_addr     start_tm func           faults faultsmb snd2clnt  rcvfrmc  snd2svr  rcvfrms last_upd                                     file
+   24945 127.0.0.1       00:00:47 submit              0        0        6   240857   240858        7                                                  
+
+I, [2012-12-07T18:56:19.020918 #20912]  INFO -- : 
+ pid/thd client_addr     start_tm func           faults faultsmb snd2clnt  rcvfrmc  snd2svr  rcvfrms last_upd                                     file
+   24945 127.0.0.1       00:00:48 submit              0        0        6   240857   240858        7                                                  
+
+I, [2012-12-07T18:56:20.062206 #20912]  INFO -- : 
+ pid/thd client_addr     start_tm func           faults faultsmb snd2clnt  rcvfrmc  snd2svr  rcvfrms last_upd                                     file
+   24945 127.0.0.1       00:00:49 submit              0        0        6   240857   240858        7                                                  
+
+I, [2012-12-07T18:56:21.026733 #20912]  INFO -- : 
+ pid/thd client_addr     start_tm func           faults faultsmb snd2clnt  rcvfrmc  snd2svr  rcvfrms last_upd                                     file
+   24945 127.0.0.1       00:00:50 submit              0        0        6   240857   240858        7                                                  
+
+I, [2012-12-07T18:56:22.094991 #20912]  INFO -- : 
+ pid/thd client_addr     start_tm func           faults faultsmb snd2clnt  rcvfrmc  snd2svr  rcvfrms last_upd                                     file
+   24945 127.0.0.1       00:00:51 submit              0        0        6   240857   240858        7                                                  
+
+I, [2012-12-07T18:56:23.094505 #20912]  INFO -- : 
+ pid/thd client_addr     start_tm func           faults faultsmb snd2clnt  rcvfrmc  snd2svr  rcvfrms last_upd                                     file
+   24945 127.0.0.1       00:00:52 submit              0        0        6   240857   240858        7                                                  
+
+I, [2012-12-07T18:56:24.045913 #20912]  INFO -- : 
+ pid/thd client_addr     start_tm func           faults faultsmb snd2clnt  rcvfrmc  snd2svr  rcvfrms last_upd                                     file
+   24945 127.0.0.1       00:00:53 submit              0        0        6   240857   240858        7                                                  
+
+I, [2012-12-07T18:56:25.067056 #20912]  INFO -- : 
+ pid/thd client_addr     start_tm func           faults faultsmb snd2clnt  rcvfrmc  snd2svr  rcvfrms last_upd                                     file
+   24945 127.0.0.1       00:00:54 submit              0        0        6   240857   240858        7                                                  
+
+I, [2012-12-07T18:56:26.030278 #20912]  INFO -- : 
+ pid/thd client_addr     start_tm func           faults faultsmb snd2clnt  rcvfrmc  snd2svr  rcvfrms last_upd                                     file
+   24945 127.0.0.1       00:00:55 submit              0        0        6   240857   240858        7                                                  
+
+I, [2012-12-07T18:56:27.062407 #20912]  INFO -- : 
+ pid/thd client_addr     start_tm func           faults faultsmb snd2clnt  rcvfrmc  snd2svr  rcvfrms last_upd                                     file
+   24945 127.0.0.1       00:00:56 submit              0        0        6   240857   240858        7                                                  
+
+I, [2012-12-07T18:56:28.100283 #20912]  INFO -- : 
+ pid/thd client_addr     start_tm func           faults faultsmb snd2clnt  rcvfrmc  snd2svr  rcvfrms last_upd                                     file
+   24945 127.0.0.1       00:00:57 submit              0        0        6   240857   240858        7                                                  
+
+I, [2012-12-07T18:56:29.044480 #20912]  INFO -- : 
+ pid/thd client_addr     start_tm func           faults faultsmb snd2clnt  rcvfrmc  snd2svr  rcvfrms last_upd                                     file
+   24945 127.0.0.1       00:00:58 submit              0        0       12   253643   253644       12 00:00:01                            depot/depot/0
+
+I, [2012-12-07T18:56:30.092565 #20912]  INFO -- : 
+ pid/thd client_addr     start_tm func           faults faultsmb snd2clnt  rcvfrmc  snd2svr  rcvfrms last_upd                                     file
+   24945 127.0.0.1       00:00:59 submit              0        0       12   253643   253644       12 00:00:02                            depot/depot/0
+
+I, [2012-12-07T18:56:31.012545 #20912]  INFO -- : 
+ pid/thd client_addr     start_tm func           faults faultsmb snd2clnt  rcvfrmc  snd2svr  rcvfrms last_upd                                     file
+   24945 127.0.0.1       00:01:00 submit              0        0       12   253643   253644       12 00:00:03                            depot/depot/0
+
+I, [2012-12-07T18:56:32.084164 #20912]  INFO -- : 
+ pid/thd client_addr     start_tm func           faults faultsmb snd2clnt  rcvfrmc  snd2svr  rcvfrms last_upd                                     file
+   24945 127.0.0.1       00:01:01 submit              0        0       12   253643   253644       12 00:00:04                            depot/depot/0
+
+I, [2012-12-07T18:56:33.054416 #20912]  INFO -- : 
+ pid/thd client_addr     start_tm func           faults faultsmb snd2clnt  rcvfrmc  snd2svr  rcvfrms last_upd                                     file
+   24945 127.0.0.1       00:01:02 submit              0        0    74249   253643   253644       12 00:00:00                            depot/depot/0
+
+I, [2012-12-07T18:56:34.097599 #20912]  INFO -- : 
+ pid/thd client_addr     start_tm func           faults faultsmb snd2clnt  rcvfrmc  snd2svr  rcvfrms last_upd                                     file
+   24945 127.0.0.1       00:01:03 submit              0        0    74249   253643   253644       12 00:00:01                            depot/depot/0
+
+I, [2012-12-07T18:56:35.007315 #20912]  INFO -- : 
+ pid/thd client_addr     start_tm func           faults faultsmb snd2clnt  rcvfrmc  snd2svr  rcvfrms last_upd                                     file
+   24945 127.0.0.1       00:01:04 submit              0        0    74249   253643   253644       12 00:00:02                            depot/depot/0
+
+I, [2012-12-07T18:56:36.066367 #20912]  INFO -- : 
+ pid/thd client_addr     start_tm func           faults faultsmb snd2clnt  rcvfrmc  snd2svr  rcvfrms last_upd                                     file
+   24945 127.0.0.1       00:01:05 submit              0        0    74249   253643   253644       12 00:00:03                            depot/depot/0
+
+I, [2012-12-07T18:56:37.059459 #20912]  INFO -- : 
+ pid/thd client_addr     start_tm func           faults faultsmb snd2clnt  rcvfrmc  snd2svr  rcvfrms last_upd                                     file
+   24945 127.0.0.1       00:01:06 submit              0        0    74249   253643   253644       12 00:00:04                            depot/depot/0
+
+I, [2012-12-07T18:56:38.065382 #20912]  INFO -- : 
+ pid/thd client_addr     start_tm func           faults faultsmb snd2clnt  rcvfrmc  snd2svr  rcvfrms last_upd                                     file
+   24945 127.0.0.1       00:01:07 submit              0        0   156126   253643   253644       12 00:00:00                            depot/depot/0
+
+I, [2012-12-07T18:56:39.102463 #20912]  INFO -- : 
+ pid/thd client_addr     start_tm func           faults faultsmb snd2clnt  rcvfrmc  snd2svr  rcvfrms last_upd                                     file
+   24945 127.0.0.1       00:01:08 submit              0        0   156126   253643   253644       12 00:00:01                            depot/depot/0
+
+I, [2012-12-07T18:56:40.055756 #20912]  INFO -- : 
+ pid/thd client_addr     start_tm func           faults faultsmb snd2clnt  rcvfrmc  snd2svr  rcvfrms last_upd                                     file
+   24945 127.0.0.1       00:01:09 submit              0        0   156126   253643   253644       12 00:00:02                            depot/depot/0
+
+I, [2012-12-07T18:56:41.022166 #20912]  INFO -- : 
+ pid/thd client_addr     start_tm func           faults faultsmb snd2clnt  rcvfrmc  snd2svr  rcvfrms last_upd                                     file
+   24945 127.0.0.1       00:01:10 submit              0        0   156126   253643   253644       12 00:00:03                            depot/depot/0
+
+I, [2012-12-07T18:56:42.086948 #20912]  INFO -- : 
+ pid/thd client_addr     start_tm func           faults faultsmb snd2clnt  rcvfrmc  snd2svr  rcvfrms last_upd                                     file
+   24945 127.0.0.1       00:01:11 submit              0        0   156126   253643   253644       12 00:00:04                            depot/depot/0
+
+I, [2012-12-07T18:56:43.077991 #20912]  INFO -- : 
+ pid/thd client_addr     start_tm func           faults faultsmb snd2clnt  rcvfrmc  snd2svr  rcvfrms last_upd                                     file
+   24945 127.0.0.1       00:01:12 submit              0        0   226848   253643   253644       12 00:00:00                            depot/depot/0
+
+I, [2012-12-07T18:56:44.057969 #20912]  INFO -- : 
+ pid/thd client_addr     start_tm func           faults faultsmb snd2clnt  rcvfrmc  snd2svr  rcvfrms last_upd                                     file
+   24945 127.0.0.1       00:01:13 submit              0        0   226848   253643   253644       12 00:00:01                            depot/depot/0
+
+I, [2012-12-07T18:56:45.509580 #20912]  INFO -- : 
+ pid/thd client_addr     start_tm func           faults faultsmb snd2clnt  rcvfrmc  snd2svr  rcvfrms last_upd                                     file
+   24945 127.0.0.1       00:01:14 submit              0        0   226848   253643   253644       12 00:00:02                            depot/depot/0
+
+I, [2012-12-07T18:56:46.084960 #20912]  INFO -- : 
+ pid/thd client_addr     start_tm func           faults faultsmb snd2clnt  rcvfrmc  snd2svr  rcvfrms last_upd                                     file
+   24945 127.0.0.1       00:01:15 submit              0        0   226848   253643   253644       12 00:00:03                            depot/depot/0
+
+I, [2012-12-07T18:56:47.034843 #20912]  INFO -- : 
+ pid/thd client_addr     start_tm func           faults faultsmb snd2clnt  rcvfrmc  snd2svr  rcvfrms last_upd                                     file
+   24945 127.0.0.1       00:01:16 submit              0        0   226848   253643   253644       12                                                  
+
+I, [2012-12-07T18:56:48.234043 #20912]  INFO -- : 
+ pid/thd client_addr     start_tm func           faults faultsmb snd2clnt  rcvfrmc  snd2svr  rcvfrms last_upd                                     file
+   28897 127.0.0.1       00:00:00 sync                0        0        0        0        0        0 376370:56:48                            depot/depot/0
+
+I, [2012-12-07T18:56:49.084548 #20912]  INFO -- : 
+ pid/thd client_addr     start_tm func           faults faultsmb snd2clnt  rcvfrmc  snd2svr  rcvfrms last_upd                                     file
+   28897 127.0.0.1       00:00:01 sync                0        0        0        0        0        0 376370:56:49                            depot/depot/0
+
+I, [2012-12-07T18:56:50.061249 #20912]  INFO -- : 
+ pid/thd client_addr     start_tm func           faults faultsmb snd2clnt  rcvfrmc  snd2svr  rcvfrms last_upd                                     file
+   28897 127.0.0.1       00:00:02 sync                0        0        0        0        0        0 376370:56:50                            depot/depot/0
+
+I, [2012-12-07T18:56:51.082235 #20912]  INFO -- : 
+ pid/thd client_addr     start_tm func           faults faultsmb snd2clnt  rcvfrmc  snd2svr  rcvfrms last_upd                                     file
+   28897 127.0.0.1       00:00:03 sync                0        0        0        0        0        0 376370:56:51                            depot/depot/0
+
+I, [2012-12-07T18:56:52.036399 #20912]  INFO -- : 
+ pid/thd client_addr     start_tm func           faults faultsmb snd2clnt  rcvfrmc  snd2svr  rcvfrms last_upd                                     file
+   28897 127.0.0.1       00:00:04 sync                0        0        0        0        0        0 376370:56:52                            depot/depot/0
+
+I, [2012-12-07T18:56:53.051232 #20912]  INFO -- : 
+ pid/thd client_addr     start_tm func           faults faultsmb snd2clnt  rcvfrmc  snd2svr  rcvfrms last_upd                                     file
+   28897 127.0.0.1       00:00:05 sync                0        0    92526        2        3        4 00:00:00                            depot/depot/0
+
+I, [2012-12-07T18:56:54.069049 #20912]  INFO -- : 
+ pid/thd client_addr     start_tm func           faults faultsmb snd2clnt  rcvfrmc  snd2svr  rcvfrms last_upd                                     file
+   28897 127.0.0.1       00:00:06 sync                0        0    92526        2        3        4 00:00:01                            depot/depot/0
+
+I, [2012-12-07T18:56:55.031407 #20912]  INFO -- : 
+ pid/thd client_addr     start_tm func           faults faultsmb snd2clnt  rcvfrmc  snd2svr  rcvfrms last_upd                                     file
+   28897 127.0.0.1       00:00:07 sync                0        0    92526        2        3        4 00:00:02                            depot/depot/0
+
+I, [2012-12-07T18:56:56.087113 #20912]  INFO -- : 
+ pid/thd client_addr     start_tm func           faults faultsmb snd2clnt  rcvfrmc  snd2svr  rcvfrms last_upd                                     file
+   28897 127.0.0.1       00:00:08 sync                0        0    92526        2        3        4 00:00:03                            depot/depot/0
+
+I, [2012-12-07T18:56:57.066583 #20912]  INFO -- : 
+ pid/thd client_addr     start_tm func           faults faultsmb snd2clnt  rcvfrmc  snd2svr  rcvfrms last_upd                                     file
+   28897 127.0.0.1       00:00:09 sync                0        0    92526        2        3        4 00:00:04                            depot/depot/0
+
+I, [2012-12-07T18:56:58.071584 #20912]  INFO -- : 
+ pid/thd client_addr     start_tm func           faults faultsmb snd2clnt  rcvfrmc  snd2svr  rcvfrms last_upd                                     file
+   28897 127.0.0.1       00:00:10 sync                0        0   159091        2        3        4 00:00:00                            depot/depot/0
+
+I, [2012-12-07T18:56:59.055225 #20912]  INFO -- : 
+ pid/thd client_addr     start_tm func           faults faultsmb snd2clnt  rcvfrmc  snd2svr  rcvfrms last_upd                                     file
+   28897 127.0.0.1       00:00:11 sync                0        0   159091        2        3        4 00:00:01                            depot/depot/0
+
+I, [2012-12-07T18:57:00.198225 #20912]  INFO -- : 
+ pid/thd client_addr     start_tm func           faults faultsmb snd2clnt  rcvfrmc  snd2svr  rcvfrms last_upd                                     file
+   28897 127.0.0.1       00:00:12 sync                0        0   159091        2        3        4 00:00:02                            depot/depot/0
+
+I, [2012-12-07T18:57:01.018944 #20912]  INFO -- : 
+ pid/thd client_addr     start_tm func           faults faultsmb snd2clnt  rcvfrmc  snd2svr  rcvfrms last_upd                                     file
+   28897 127.0.0.1       00:00:13 sync                0        0   159091        2        3        4 00:00:03                            depot/depot/0
+
+I, [2012-12-07T18:57:02.056490 #20912]  INFO -- : 
+ pid/thd client_addr     start_tm func           faults faultsmb snd2clnt  rcvfrmc  snd2svr  rcvfrms last_upd                                     file
+   28897 127.0.0.1       00:00:14 sync                0        0   159091        2        3        4 00:00:04                            depot/depot/0
+
+I, [2012-12-07T18:57:03.080110 #20912]  INFO -- : 
+ pid/thd client_addr     start_tm func           faults faultsmb snd2clnt  rcvfrmc  snd2svr  rcvfrms last_upd                                     file
+   28897 127.0.0.1       00:00:15 sync                0        0   212642        2        3        4 00:00:00                            depot/depot/0
+
+I, [2012-12-07T18:57:04.074681 #20912]  INFO -- : 
+ pid/thd client_addr     start_tm func           faults faultsmb snd2clnt  rcvfrmc  snd2svr  rcvfrms last_upd                                     file
+   28897 127.0.0.1       00:00:16 sync                0        0   212642        2        3        4 00:00:01                            depot/depot/0
+
